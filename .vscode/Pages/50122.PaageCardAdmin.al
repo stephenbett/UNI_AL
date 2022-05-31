@@ -2,6 +2,7 @@ page 50123 Admin_Card
 {
     PageType = Card;
     SourceTable = Admins;
+    UsageCategory = Administration;
 
     layout
     {

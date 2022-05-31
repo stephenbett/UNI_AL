@@ -1,10 +1,11 @@
 page 50124 Admin_List
 {
     PageType = List;
-    ApplicationArea = List;
+    ApplicationArea = all;
     UsageCategory = Lists;
     SourceTable = Admins;
     Editable = false;
+    CardPageId = Admin_Card;
 
     layout
     {
