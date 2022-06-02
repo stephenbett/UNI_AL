@@ -42,6 +42,9 @@ page 50124 Admin_List
                 }
             }
         }
-
     }
+    var
+        mycode: Codeunit "Email Message";
 }
+
+
