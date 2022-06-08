@@ -1,4 +1,4 @@
-page 50124 Admin_List
+page 50114 Admin_List
 {
     PageType = List;
     ApplicationArea = all;

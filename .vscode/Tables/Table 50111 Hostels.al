@@ -1,4 +1,4 @@
-table 50131 Hostels
+table 50111 Hostels
 {
     Caption = 'Hostels';
     DataClassification = ToBeClassified;

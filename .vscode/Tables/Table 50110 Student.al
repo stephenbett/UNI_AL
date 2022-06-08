@@ -1,4 +1,4 @@
-table 50128 Students
+table 50110 Students
 {
     Caption = 'Student';
     DataClassification = ToBeClassified;

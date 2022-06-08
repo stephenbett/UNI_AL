@@ -1,4 +1,4 @@
-page 50132 "hostel.List"
+page 50117 "hostel.List"
 {
     ApplicationArea = All;
     Caption = 'hostel.List';

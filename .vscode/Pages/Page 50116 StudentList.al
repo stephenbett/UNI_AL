@@ -1,4 +1,4 @@
-page 50130 "Student.List"
+page 50116 "Student.List"
 {
     ApplicationArea = All;
     Caption = 'Student.List';
@@ -36,4 +36,21 @@ page 50130 "Student.List"
             }
         }
     }
+    actions
+    {
+        area(Navigation)
+        {
+            action(hostellist)
+            {
+                ApplicationArea = All;
+                Caption = 'Hostels';
+                Promoted = true;
+                PromotedCategory = Process;
+                RunObject = page "hostel.List";
+                RunPageLink = "RegNo" = field(RegNo);
+                ToolTip = 'Opens Hostels.';
+            }
+        }
+    }
 }
+

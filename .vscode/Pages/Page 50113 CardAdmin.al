@@ -1,4 +1,4 @@
-page 50123 Admin_Card
+page 50113 Admin_Card
 {
     PageType = Card;
     SourceTable = Admins;
